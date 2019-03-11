@@ -1,0 +1,23 @@
+*{margin:0;padding:0;}
+.totalbg{width:40%;height:auto;margin-left:30%;background-color:#09075E;}
+.atop{width:100%;height:auto;}
+
+p{color:white;margin:0;}
+span{color:white;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;display:inline-block;width:100%;text-align:center;font-size:600%;transform:translateY(-355%);}
+#waite{width:100%;text-align:center;transform:translateY(-2100%)}
+
+.middle{width:100%;height:auto;}
+
+.box{margin-left:7%;width:86%;height:200px;border-radius:13px;background-color:white;transform:translateY(-35%)}
+h3{color:black;text-align:center;}
+.ab{margin-left:40%;width:20%;border-top:2px solid black;border-bottom:2px solid black;}
+h2{margin-left:13%}
+.lword{color:white;width:40%;height:auto;float:left；}
+.rpic{width:50%;height:auto;float:right;margin-right:3%;transform:translateY(-130%)}
+.first{margin-top:80px}
+
+.bottom{margin-left:7%;width:86%;border-radius:15px;background-color:steelblue;height:250px;}
+.bottomm{margin-left:7%;width:86%;border-radius:18px;background-color:white;height:400px;margin-top:10%;}
+
+button{border:none;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;text-align:center;font-size:100%;margin-left:42.5%;line-height:100%; }
+button:hover{transform:}
