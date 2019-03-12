@@ -1,7 +1,7 @@
 body{background-color:#09075E ;background-image: url(pictures/top.png);background-size:100% auto;background-repeat: no-repeat; }
 div{margin:0;padding:0;}
 #WES{width:100%;height:600px;background-color: rgba(31, 143, 46, 0);text-align: center;}
-#WES p{line-height:200px;text-align:center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size: 120px;margin:0;transform:translateY(-20px);color:white;text-shadow:2px 2px 2px rgba(31, 143, 46, 1)}
+#WES p{line-height:200px;text-align:center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size: 80px;margin:0;transform:translateY(-20px);color:white;text-shadow:2px 2px 2px rgba(31, 143, 46, 1)}
 #WES p span{font-size:60px;color:white;}
 #introup{width:100%;height:350px;background-color: rgba(76,233,44,0)}
 #intro{width:80%;margin-left:10%;height:600px;border-radius: 20px;background-color:rgba(0,255,255,1);margin-top:15px;}
